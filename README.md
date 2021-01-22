@@ -27,7 +27,7 @@
 ### 📕 Project that i'm proud of :
 
 <!-- BLOG-POST-LIST:START -->
-- [Doni Wirawan Personal Website (Changing every month)](https://doniwirawan.github.io/)
+- [😎Doni Wirawan Personal Website (Changing every month)](https://doniwirawan.github.io/)
 - [😈Hangman Game](https://doni-hangman-game.netlify.app)
 - [💵Expense Tracker](https://doni-expense-tracker.netlify.app/)
 - [🍴Meal Finder](https://doni-meal-finder.netlify.app/)
