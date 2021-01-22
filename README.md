@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning everything (React, Laravel, Node Js, Mongodb)🤣
 - 🏁 I’m starting more serious about programming since i'm graduated from High School
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I'm majoring in Software Engineering in High School and now I'm majoring in Informatics Engineering
+- ⚡ Fun fact: I'm majoring in Software Engineering in High School and now I'm majoring in Informatics Engineering in college
 
 
 
