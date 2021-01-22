@@ -28,13 +28,13 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Doni Wirawan Personal Website (Changing every month)](https://doniwirawan.github.io/)
-- [Hangman Game](https://doni-hangman-game.netlify.app)
-- [Expense Tracker](https://doni-expense-tracker.netlify.app/)
-- [Meal Finder](https://doni-meal-finder.netlify.app/)
-- [Cocktail Finder](https://doni-cocktail-finder.netlify.app/)
-- [Digital Clock](https://doni-webclock.netlify.app/)
-- [New Year Countdown](https://doni-newyearcountdown.netlify.app/)
-- [Breathe App](https://doni-relaxer-app.netlify.app/)
+- [😈Hangman Game](https://doni-hangman-game.netlify.app)
+- [💵Expense Tracker](https://doni-expense-tracker.netlify.app/)
+- [🍴Meal Finder](https://doni-meal-finder.netlify.app/)
+- [🍸Cocktail Finder](https://doni-cocktail-finder.netlify.app/)
+- [🕓Digital Clock](https://doni-webclock.netlify.app/)
+- [🎆New Year Countdown](https://doni-newyearcountdown.netlify.app/)
+- [🧘‍♀️Breathe App](https://doni-relaxer-app.netlify.app/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more project...](https://github.com/doniwirawan?tab=repositories)
