@@ -5,7 +5,7 @@
 
 
 - 🌱 I’m currently learning everything (React, Laravel, Node Js, Mongodb)🤣
-- 🏁 I’m starting more serious about programming since i'm graduated from High School
+- 🏁 I’m starting more serious about programming since i'm graduated from Vocational High School
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I'm majoring in Software Engineering in High School and now in college I'm majoring in Informatics Engineering 
 
@@ -41,7 +41,7 @@
 
 ---
 
-[website]: https://doniwirawan.github.io
-[twitter]: https://twitter.com/doni_codes
-[instagram]: https://instagram.com/doni_codes
+[website]: https://doniwirawan.herokuapp.com
+[twitter]: https://twitter.com/doni_wirawans
+[instagram]: https://instagram.com/doni_wirawans
 [linkedin]: https://www.linkedin.com/in/doni-wirawan-7a0189178
