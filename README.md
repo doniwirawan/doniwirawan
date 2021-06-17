@@ -27,6 +27,10 @@
 ### 📕 Project that i'm proud of :
 
 <!-- BLOG-POST-LIST:START -->
+
+- [🏝Bali Tours Website](https://doni-bali-tours.netlify.app/)
+- [🎧Javascrpit Music Player](https://doni-js-music.netlify.app/)
+- [🧠Calculator Website](https://doni-calculator.netlify.app/)
 - [😎Doni Wirawan Personal Website (Changing every month)](https://doniwirawan.herokuapp.com/)
 - [😈Hangman Game](https://doni-hangman-game.netlify.app)
 - [💵Expense Tracker](https://doni-expense-tracker.netlify.app/)
