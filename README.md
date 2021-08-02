@@ -29,7 +29,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [😎Doni Wirawan Personal Website](https://www.doniwirawan.studio/)
 - [🏝Bali Tours Website](https://doni-bali-tours.netlify.app/)
-- [🎧Javascrpit Music Player](https://doni-js-music.netlify.app/)
+- [🎧Javascript Music Player](https://doni-js-music.netlify.app/)
 - [🚀Nasa Astronomy Picture of the Day](https://doni-nasa-api.netlify.app/)
 - [🧠Calculator Website](https://doni-calculator.netlify.app/)
 - [😈Hangman Game](https://doni-hangman-game.netlify.app)
