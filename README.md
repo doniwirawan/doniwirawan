@@ -1,7 +1,8 @@
 # Hi there, I'm Doni Wirawan
-[!Doni Wirawans GitHub stats](https://github-readme-stats.vercel.app/api?username=doniwirawan&show_icons=true&theme=gruvbox)
+[![Doni Wirawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=doniwirawan)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doniwirawan)](https://github.com/anuraghazra/github-readme-stats)
 
-[!Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doniwirawan&theme=gruvbox)
 
 
 ## I'm a Student, Junior Web Developer, and Long life learner✌
