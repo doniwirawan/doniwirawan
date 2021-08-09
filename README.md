@@ -4,7 +4,7 @@
 ## I'm a Student, Junior Web Developer, and Long life learner✌
 
 
-- 🌱 I’m currently learning everything (React, Laravel, Node Js, Mongodb)🤣
+- 🌱 I’m currently learning everything (React, Laravel, Node JS, Mongodb)🤣
 - 🏁 I’m starting more serious about programming since i'm graduated from Vocational High School
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I'm majoring in Software Engineering in High School and now in college I'm majoring in Informatics Engineering 
