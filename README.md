@@ -1,5 +1,5 @@
 # Hi there, I'm Doni Wirawan
-[![Doni Wirawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=doniwirawan)](https://github.com/anuraghazra/github-readme-stats)
+[![Doni Wirawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=doniwirawan)](https://github.com/anuraghazra/github-readme-stats)  ![Visitor Badge](https://visitor-badges.glitch.me?username=doniwirawan&repo=doniwirawan)
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doniwirawan)](https://github.com/anuraghazra/github-readme-stats)
 
