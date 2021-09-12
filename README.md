@@ -1,11 +1,12 @@
 # Hi there, I'm Doni Wirawan
-[![Doni Wirawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=doniwirawan)](https://github.com/anuraghazra/github-readme-stats)  ![Visitor Badge](https://visitor-badges.glitch.me?username=doniwirawan&repo=doniwirawan)
+[![Doni Wirawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=doniwirawan)](https://github.com/anuraghazra/github-readme-stats)  
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doniwirawan)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
 ## I'm a Student, Junior Web Developer, and Long life learner✌
+![Visitor Badge](https://visitor-badges.glitch.me?username=doniwirawan&repo=doniwirawan)
 
 
 - 🌱 I’m currently learning everything (React, Laravel, Node JS, Mongodb)🤣
