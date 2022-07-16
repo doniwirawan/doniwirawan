@@ -1,3 +1,3 @@
 # Hello World
 
-[for more information](https://www.doniwirawan.com) 
+[for more information](https://doniwirawan-blog.vercel.app/) 
