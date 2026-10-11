@@ -14,12 +14,34 @@ Live from Strava via my own dashboard, [Ascent](https://ascent-analytics.doniwir
 
 <a href="https://www.strava.com/athletes/124436743">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://ascent-analytics.vercel.app/api/card?period=ytd&theme=light">
-  <img alt="Riding stats this year" src="https://ascent-analytics.vercel.app/api/card?period=ytd&theme=dark" width="49%">
+  <source media="(prefers-color-scheme: light)" srcset="https://ascent-analytics.vercel.app/api/card?type=summary&period=ytd&theme=light">
+  <img alt="Riding stats this year" src="https://ascent-analytics.vercel.app/api/card?type=summary&period=ytd&theme=dark" width="49%">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://ascent-analytics.vercel.app/api/card?period=30d&theme=light">
-  <img alt="Riding stats, last 30 days" src="https://ascent-analytics.vercel.app/api/card?period=30d&theme=dark" width="49%">
+  <source media="(prefers-color-scheme: light)" srcset="https://ascent-analytics.vercel.app/api/card?type=calendar&theme=light">
+  <img alt="A year of rides, km per day" src="https://ascent-analytics.vercel.app/api/card?type=calendar&theme=dark" width="49%">
+</picture>
+</a>
+
+<a href="https://www.strava.com/athletes/124436743">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://ascent-analytics.vercel.app/api/card?type=latest&theme=light">
+  <img alt="Latest ride" src="https://ascent-analytics.vercel.app/api/card?type=latest&theme=dark" width="49%">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://ascent-analytics.vercel.app/api/card?type=fitness&theme=light">
+  <img alt="Training form over the last 90 days" src="https://ascent-analytics.vercel.app/api/card?type=fitness&theme=dark" width="49%">
+</picture>
+</a>
+
+<a href="https://www.strava.com/athletes/124436743">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://ascent-analytics.vercel.app/api/card?type=fun&theme=light">
+  <img alt="Fun numbers: streak, babi guling burned, Everests, around the Earth" src="https://ascent-analytics.vercel.app/api/card?type=fun&theme=dark" width="49%">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://ascent-analytics.vercel.app/api/card?type=bikes&theme=light">
+  <img alt="All-time km on each bike" src="https://ascent-analytics.vercel.app/api/card?type=bikes&theme=dark" width="49%">
 </picture>
 </a>
 
