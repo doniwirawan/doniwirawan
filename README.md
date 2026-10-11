@@ -8,6 +8,14 @@
 [![Twitter](https://img.shields.io/badge/twitter-@doni_wirawans-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/doni_wirawans)
 [![Ko-fi](https://img.shields.io/badge/ko--fi-support%20me-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/L7T7234BJ2)
 
+### Writing ✍️
+
+<p>
+<a href="https://doniwirawan.xyz/blog/latest"><picture><source media="(prefers-color-scheme: light)" srcset="https://doniwirawan.xyz/api/latest-post?card=1&theme=light"><img alt="My latest blog post on doniwirawan.xyz" src="https://doniwirawan.xyz/api/latest-post?card=1&theme=dark" width="98.5%"></picture></a>
+</p>
+
+[More posts →](https://doniwirawan.xyz/blog)
+
 ### On the bike 🚴
 
 Live from Strava via my own dashboard, [Ascent](https://ascent-analytics.doniwirawan.xyz) — refreshes hourly.
